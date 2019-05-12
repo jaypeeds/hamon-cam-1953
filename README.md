@@ -29,11 +29,21 @@ It can be accessed [here](https://a360.co/2JHPxIf)
 STL ASCII files are stored in this repository
 
 # Design images
+3D printed device
 ![3D Printed device](images/setup.jpg)
+
+Profiles of cams
 ![Hamon's cam transforms](/images/scrolling-cam-profile-sketch.png)
 ![Hamon's arm transform](/images/arm-cam-profile-sketch.png)
+
+Assembly
 ![Assembly](/images/Assembly.png)
 
 # Sample images
+Moonshot with stars in background @f=350mm, s=60s, f/d=22, iso=125 
+
 ![Moonshot with stars in background f=350mm s=60s a=22 iso=125](/images/s60-a22-iso125.JPG)
+
+Same picture without driving
+
 ![Same picture without driving](/images/no-drive.JPG)
