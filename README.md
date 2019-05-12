@@ -47,3 +47,6 @@ Moonshot with stars in background @f=350mm, s=60s, f/d=22, iso=125
 Same picture without driving
 
 ![Same picture without driving](/images/no-drive.JPG)
+
+# Related project
+[How to drive a stepper motor](https://github.com/jaypeeds/StarTracker)
