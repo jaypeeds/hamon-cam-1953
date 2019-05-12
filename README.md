@@ -1,7 +1,7 @@
 # Old trick, new tools and technologies
 Back in 1953, a French astronomer, André Hamon, described a mechanism to correct error of tangent drives in an article of the «Société d'Astronomie Française» Bulletin.
 The article, written in the perspective of building the device, precisely described how the profile of cams could be drafted on a transparent plexiglas sheet using a ruler and compasses. A full scan in PDF format can be found [here.](http://www.astrosurf.com/astroptics/files/hamon_1953.pdf)
-A translation to this solution where published in «Sky & Telescope» June 1978
+An English translation to this article was published in [«Sky & Telescope» June 1978](https://archive.org/details/Sky_and_Telescope_1978-06-pdf)
 
 Today, the digital incarnation of the drawing board is a CAD software, and with a bit of adaptation, the same constructs can be done on screen. Then the most advanced tools also include a CAM integration to drive digital manufacturing of the designs.
 This is the purpose of this project, its goal is to bring back an old trick to the attention of amateur astronomer or photographers who want to practice astrophotography with very long shutter time, ideally the «Bulb» mode.
