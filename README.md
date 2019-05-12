@@ -20,7 +20,7 @@ A type 608 ballbearing is used to allow minimal rotation resistance.
 
 # Project documents
 The project was designed using Autodesk Fusion 360 used with a hobbyist license
-It can be accessed ![here](https://a360.co/2JHPxIf)
+It can be accessed here: https://a360.co/2JHPxIf
 STL ASCII files are stored in this repository
 
 # Design images
