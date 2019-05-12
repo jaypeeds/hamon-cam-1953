@@ -13,22 +13,22 @@ Imagine the picture of the stars in the sky were printed inside an umbrella. We 
 There is another family of such devices called «Barn Door Tracker» or «Haig arm»
 
 #Specific features of this solution
-##This solution is relying on cams to correct error between constant angular speed and constant linear speed along a tangent to an apparently circular path followed by stars and planet.
-##The driving screw used does not support the full weight of the camera, and of the arm itself. It can be small.
-##The camera is safely attached to the device with an M8 screw.
-##A type 608 ballbearing is used to allow minimal rotation resistance.
+This solution is relying on cams to correct error between constant angular speed and constant linear speed along a tangent to an apparently circular path followed by stars and planet.
+The driving screw used does not support the full weight of the camera, and of the arm itself. It can be small.
+The camera is safely attached to the device with an M8 screw.
+A type 608 ballbearing is used to allow minimal rotation resistance.
 
 #Project documents
-##The project was designed using Autodesk Fusion 360 used with a hobbyist license
-##It can be accessed here https://a360.co/2JHPxIf
-##STL ASCII files are stored in this repository
+The project was designed using Autodesk Fusion 360 used with a hobbyist license
+It can be accessed here https://a360.co/2JHPxIf
+STL ASCII files are stored in this repository
 
 #Design images
-## ![3D Printed device](/images/setup.jpg)
-## ![Hamon's cam transforms](/images/scrolling-cam-profile-sketch.png)
-## ![Hamon's arm transform](/images/arm-cam-profile-sketch.png)
-## ![Assembly](/images/Assembly.png)
+ ![3D Printed device](/images/setup.jpg)
+ ![Hamon's cam transforms](/images/scrolling-cam-profile-sketch.png)
+ ![Hamon's arm transform](/images/arm-cam-profile-sketch.png)
+ ![Assembly](/images/Assembly.png)
 
 #Sample images
-## ![Moonshot](/images/s60-a22-iso125.jpg)
-## ![Same picture without drive](/images/no-drive.jpg)
+ ![Moonshot](/images/s60-a22-iso125.jpg)
+ ![Same picture without drive](/images/no-drive.jpg)
