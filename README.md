@@ -7,7 +7,7 @@ Today, the digital incarnation of the drawing board is a CAD software, and with 
 This is the purpose of this project, its goal is to bring back an old trick to the attention of amateur astronomers or photographers who want to practice astrophotography with very long shutter time, ideally using the «Bulb» mode.
 
 # Observing the sky
-Imagine the picture of the stars in the sky were printed inside an umbrella. We open the umbrella and point it in direction of Polaris, the northern star, and slowly rotate the handle in the counter clockwise direction to keep up with the sky rotation in 1440 minutes every day, letting some stars disappear behind the horizon on the left (west) and other ones appear on the right (east). It is the movement that astronomers and photographers want to reproduce.
+Imagine the picture of the stars in the sky were printed inside an umbrella. We open the umbrella and point it in direction of Polaris, the northern star, and slowly rotate the handle in the counter clockwise direction to keep up with the sky rotation in 1440 minutes every day, letting some stars disappear behind the horizon on the left (west) and other ones appear on the right (east). It is the movement that astronomers and photographers want to reproduce, or rather counter-balance.
 
 # Other well known solutions
 There is another family of such devices called «Barn Door Tracker» or «Haig arm»
