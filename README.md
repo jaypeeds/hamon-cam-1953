@@ -30,5 +30,5 @@ STL ASCII files are stored in this repository
 ![Assembly](/images/Assembly.png)
 
 # Sample images
-![Moonshot with stars in background @f=350mm s=60s a=22 iso=125](/images/s60-a22-iso125.jpg)
-![Same picture without drive](/images/no-drive.jpg)
+![Moonshot with stars in background @f=350mm s=60s a=22 iso=125](/images/s60-a22-iso125.JPG)
+![Same picture without drive](/images/no-drive.JPG)
