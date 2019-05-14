@@ -1,5 +1,5 @@
 # Old trick, new tools and technologies
-Back in 1953, a French astronomer, André Hamon, described a mechanism to correct errors of tangent drives in an article of the «Société d'Astronomie Française» Bulletin.
+Back in 1953, a French astronomer, André Hamon, described a mechanism to correct errors of tangent drives in an article of the «Société Astronomique de France» Bulletin.
 The article, written in the perspective of building the device, precisely described how the profile of cams could be drafted on a transparent plexiglas sheet using a ruler and compasses. A full scan in PDF format can be found [here.](http://www.astrosurf.com/astroptics/files/hamon_1953.pdf)
 An English translation to this article was published in [«Sky & Telescope» June 1978.](https://archive.org/details/Sky_and_Telescope_1978-06-pdf/page/n73)
 
